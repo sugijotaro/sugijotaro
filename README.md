@@ -1,5 +1,9 @@
-### Hi there 👋
+## 👋 Hi I'm Jotaro Sugiyama ([@sugijotaro](https://github.com/sugijotaro/))
 
+<p align="left"> 
+
+[![](https://raw.githubusercontent.com/sugijotaro/sugijotaro/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sugijotaro/sugijotaro/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-p3su.vercel.app/api/top-langs/?username=sugijotaro&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-p3su.vercel.app/api?username=sugijotaro&count_private=true&show_icons=true&show_icons=true" />
